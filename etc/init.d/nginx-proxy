@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nginx=/usr/local/sbin/nginx
+nginx=/usr/sbin/nginx
 logs=logs
 pid=logs/nginx.pid
 conf=etc/nginx.conf
